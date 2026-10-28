@@ -1,7 +1,7 @@
 #version 330
 
 #moj_import <color_util.glsl>
-#moj_import <texture_sampling.glsl>
+#moj_import <hypixel_texture_sampling.glsl>
 #moj_import <text_shadow.glsl>
 #moj_import <ravengard_config.glsl>
 
